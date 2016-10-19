@@ -1,0 +1,25 @@
+{
+  "name": "bowerbootstrap",
+  "authors": [
+    "Jake Bladt <jake@jakebladt.com>"
+  ],
+  "description": "Install bootstrap with bower",
+  "main": "index.html",
+  "keywords": [
+    "sample",
+    "bower",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
